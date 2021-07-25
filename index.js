@@ -1,7 +1,8 @@
 const fs = require('fs').promises;
 const puppeteer = require('puppeteer');
 const { pageExtend } = require('puppeteer-jquery');
-const medalhas = require("./medalhas");
+const medalhas = require("./medalhas.json");
+const medalhasJson = require('./medalhas-manual.json');
 
 async function writeFile(data) {
     try {
@@ -57,10 +58,22 @@ async function writeFile(data) {
     
     // JSON da tabela
     let updates = [];
+
     data.map(item => {
         if (medalhas.countries[item.acron]) {
-            updates.push(item.acron);
+            let update = false;
+            
+            const country = medalhasJson.countries[item.acron];
 
+            if (country.total && country.total !== item.total ||
+                country.ouro && country.ouro !== item.ouro || 
+                country.prata && country.prata !== item.prata ||
+                country.bronze && country.bronze !== item.bronze) {
+                update = true;
+            }
+
+            if (update) updates.push(item.acron);
+        
             medalhas.countries[item.acron].score = {
                 total: item.total,
                 ouro: item.ouro,
@@ -74,11 +87,9 @@ async function writeFile(data) {
         delete medalhas.countries[item.acron].medals;
     }); 
     
-    console.log(updates, updates.length);
+    console.log(JSON.stringify(updates));
 
     await writeFile(medalhas);
-    
-    //console.log(medalhas);
 
     process.exit();
 })();
