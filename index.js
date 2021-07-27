@@ -58,36 +58,56 @@ async function writeFile(data) {
     
     // JSON da tabela
     let updates = [];
+    let allAcron = [];
 
     data.map(item => {
         if (medalhas.countries[item.acron]) {
             let update = false;
             
-            const country = medalhasJson.countries[item.acron];
+            allAcron.push(item.acron);
 
-            if (country.total && country.total !== item.total ||
-                country.ouro && country.ouro !== item.ouro || 
-                country.prata && country.prata !== item.prata ||
-                country.bronze && country.bronze !== item.bronze) {
-                update = true;
+            const country = medalhasJson.countries[item.acron] || null;
+
+            if(country) {
+                if (country.total && country.total !== item.total ||
+                    country.ouro && country.ouro !== item.ouro || 
+                    country.prata && country.prata !== item.prata ||
+                    country.bronze && country.bronze !== item.bronze) {
+                    update = true;
+                }
+
+                if (update) updates.push(item.acron);
+            } else {
+                updates.push(item.acron);   
             }
 
-            if (update) updates.push(item.acron);
-        
             medalhas.countries[item.acron].score = {
                 total: item.total,
                 ouro: item.ouro,
                 prata: item.prata,
                 bronze: item.bronze
             };
+
         } else {
-            delete medalhas.countries[item.acron].score;
+            if (medalhas && medalhas.countries[item.acron] && medalhas.countries[item.acron].score) {
+                delete medalhas.countries[item.acron].score;
+            }
         }
 
-        delete medalhas.countries[item.acron].medals;
+        if (medalhas && medalhas.countries[item.acron] && medalhas.countries[item.acron].medals) {
+            delete medalhas.countries[item.acron].medals;
+        }
     }); 
+
+    // deleta order desatualizado
+    for(var o = 0; o < allAcron; o++) {
+        delete medalhas.order[allAcron[o]];
+    }
+
+    medalhas.order.unshift(allAcron);
     
-    console.log(JSON.stringify(updates));
+    console.info("[updated]", JSON.stringify(updates));
+    console.info("[acrons from odf]", JSON.stringify(allAcron));
 
     await writeFile(medalhas);
 
