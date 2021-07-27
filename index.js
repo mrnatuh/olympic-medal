@@ -7,7 +7,7 @@ const medalhasJson = require('./medalhas-manual.json');
 async function writeFile(data) {
     try {
         await fs.writeFile('medalhas-manual.json', JSON.stringify(data));
-        console.log(';)');
+        console.log('🌎', 'Cole o arquivo medalhas-manual.json em davs://upload.intranet/commons.uol.com.br/sistemas/odf');
     } catch (error) {
         console.error(`Got an error trying to write to a file: ${error.message}`);
     }
@@ -39,7 +39,15 @@ async function writeFile(data) {
                 "GER":"ALE",
                 "KAZ":"CAZ",
                 "MGL":"MOG",
-                "UKR":"UCR"
+                "UKR":"UCR",
+                "PHI":"FIL",
+                "RSA":"AFS",
+                "CZE": "RCH",
+                "DEN": "DIN",
+                "MKD": "MCD",
+                "EGY": "EGI",
+                "CIV": "CMA",
+                "KUW": "KUA"
             };
 
             const pos = jQuery(elm).find('td:eq(0) strong').text();
@@ -57,7 +65,11 @@ async function writeFile(data) {
 
     
     // JSON da tabela
+    
+    // todos acrons atualizados
     let updates = [];
+    
+    // todos acrons coletados (tabela inteira da ODF)
     let allAcron = [];
 
     data.map(item => {
@@ -99,15 +111,16 @@ async function writeFile(data) {
         }
     }); 
 
-    // deleta order desatualizado
-    for(var o = 0; o < allAcron; o++) {
-        delete medalhas.order[allAcron[o]];
-    }
+    // deleta acrons do medalhas.order desatualizado
+    medalhas.order = medalhas.order.filter(acron => !allAcron.includes(acron));
+    //console.log("[acrons restantes]", JSON.stringify(medalhas.order));
 
+    // inclui order atualizado da ODF (quantos itens tiver)
     medalhas.order.unshift(allAcron);
     
-    console.info("[updated]", JSON.stringify(updates));
-    console.info("[acrons from odf]", JSON.stringify(allAcron));
+    console.info("[acrons vindos da ODF]", JSON.stringify(allAcron));
+    
+    console.info("🆕 [acrons atualizados]", JSON.stringify(updates));
 
     await writeFile(medalhas);
 
