@@ -112,11 +112,11 @@ async function writeFile(data) {
     }); 
 
     // deleta acrons do medalhas.order desatualizado
-    medalhas.order = medalhas.order.filter(acron => !allAcron.includes(acron));
+    const oldAcron = medalhas.order.filter(acron => !allAcron.includes(acron));
     //console.log("[acrons restantes]", JSON.stringify(medalhas.order));
 
     // inclui order atualizado da ODF (quantos itens tiver)
-    medalhas.order.unshift(allAcron);
+    medalhas.order = [...allAcron, ...oldAcron];
     
     console.info("[acrons vindos da ODF]", JSON.stringify(allAcron));
     
