@@ -12,7 +12,7 @@ Na raiz, usar o comando: npm i
 
 Basta pegar o arquivo medalhas.json em: "davs://upload.intranet/commons.uol.com.br/sistemas/odf/tokyo-2020/medalhas.json"
 
-Colocar na raiz data pasta do GIT que você clonou, substituindo o ./medalhas.json
+Colocar na raiz da pasta do GIT que você clonou, substituindo o ./medalhas.json
 
 ### Baixar atualização
 
