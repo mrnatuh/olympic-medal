@@ -106,9 +106,9 @@ async function writeFile(data) {
             }
         }
 
-        if (medalhas && medalhas.countries[item.acron] && medalhas.countries[item.acron].medals) {
-            delete medalhas.countries[item.acron].medals;
-        }
+        //if (medalhas && medalhas.countries[item.acron] && medalhas.countries[item.acron].medals) {
+            //delete medalhas.countries[item.acron].medals;
+        //}
     }); 
 
     // deleta acrons do medalhas.order desatualizado
