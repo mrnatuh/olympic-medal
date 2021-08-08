@@ -47,7 +47,11 @@ async function writeFile(data) {
                 "MKD": "MCD",
                 "EGY": "EGI",
                 "CIV": "CMA",
-                "KUW": "KUA"
+                "KUW": "KUA",
+                "KEN": "QUE",
+                "SWE": "SUE",
+                "ETH": "ETI",
+                "LAT": "LET"
             };
 
             const pos = jQuery(elm).find('td:eq(0) strong').text();
