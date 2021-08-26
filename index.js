@@ -1,13 +1,13 @@
 const fs = require('fs').promises;
 const puppeteer = require('puppeteer');
 const { pageExtend } = require('puppeteer-jquery');
-const medalhas = require("./medalhas.json");
-const medalhasJson = require('./medalhas-manual.json');
+const medalhas = require("./medalhas_paraolympics.json");
+const medalhasJson = require('./medalhas-manual_paraolympics.json');
 
 async function writeFile(data) {
     try {
-        await fs.writeFile('medalhas-manual.json', JSON.stringify(data));
-        console.log('🌎', 'Cole o arquivo medalhas-manual.json em davs://upload.intranet/commons.uol.com.br/sistemas/odf');
+        await fs.writeFile('medalhas-manual_paraolympics.json', JSON.stringify(data));
+        console.log('🌎', 'Cole o arquivo medalhas-manual_paraolympics.json em davs://upload.intranet/commons.uol.com.br/sistemas/odf');
     } catch (error) {
         console.error(`Got an error trying to write to a file: ${error.message}`);
     }
@@ -17,7 +17,7 @@ async function writeFile(data) {
     let browser = await puppeteer.launch({headless: true});
     let pageOrg = await browser.newPage();
 
-    await pageOrg.goto('https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medal-standings.htm', {
+    await pageOrg.goto('https://olympics.com/tokyo-2020/paralympic-games/en/results/all-sports/medal-standings.htm', {
         waitUntil: 'networkidle2',
     });
 
@@ -28,30 +28,60 @@ async function writeFile(data) {
         .jQuery('#medal-standing-table tbody tr')
         .map((id, elm) => {
             const depara = {
-                "JPN":"JAP",
-                "USA":"EUA",
-                "KOR":"CDS",
+                "BEN":"BEM",
+                "BHU":"BUT",
+                "BIH":"BOS",
+                "BUR":"BFA",
+                "BDI":"BUR",
+                "CAM":"CBJ",
+                "CMR":"CAM",
+                "CPV":"CBV",
+                "CAF":"RCA",
+                "CGO":"CON",
+                "CRC":"COS",
+                "CIV":"CMA",
+                "CYP":"CHP",
+                "CZE":"RCH",
+                "COD":"COG",
+                "DEN":"DIN",
                 "ECU":"EQU",
-                "IRI":"IRA",
-                "THA":"TAI",
-                "NED":"HOL",
-                "ROU":"ROM",
+                "EGY":"EGI",
+                "ETH":"ETI",
                 "GER":"ALE",
+                "GHA":"GAN",
+                "GRN":"GRA",
+                "IRI":"IRA",
+                "JPN":"JAP",
                 "KAZ":"CAZ",
+                "KEN":"QUE",
+                "KUW":"KUA",
+                "KGZ":"QRG",
+                "LAT":"LET",
+                "LBN":"LIB",
+                "LTU":"LIT",
+                "MAS":"MAL",
                 "MGL":"MOG",
-                "UKR":"UCR",
+                "MOZ":"MOC",
+                "NED":"HOL",
+                "NCA":"NIC",
+                "MKD":"MCD",
+                "PAK":"PAQ",
                 "PHI":"FIL",
-                "RSA":"AFS",
-                "CZE": "RCH",
-                "DEN": "DIN",
-                "MKD": "MCD",
-                "EGY": "EGI",
-                "CIV": "CMA",
-                "KUW": "KUA",
-                "KEN": "QUE",
-                "SWE": "SUE",
-                "ETH": "ETI",
-                "LAT": "LET"
+                "RPT":"AOR",
+                "KOR":"CDS",
+                "MDA":"MOL",
+                "ROU":"ROM",
+                "RWA":"RUA",
+                "KSA":"SAL",
+                "SGP":"CGP",
+                "RSA":"SAL",
+                "VIN":"SVI",
+                "SWE":"SUE",
+                "SYR":"SIR",
+                "UKR":"UCR",
+                "UAE":"EAU",
+                "USA":"EUA",
+                "YEM":"IEM"
             };
 
             const pos = jQuery(elm).find('td:eq(0) strong').text();
