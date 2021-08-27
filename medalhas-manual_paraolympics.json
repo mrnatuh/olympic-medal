@@ -1,0 +1,1636 @@
+{
+	"countries": {		
+        "AFS": {
+            "pais": "África do Sul",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ALE": {
+            "pais": "Alemanha",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ALG": {
+            "pais": "Argélia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ANG": {
+            "pais": "Angola",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "AOR": {
+            "pais": "Refugiados",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ARG": {
+            "pais": "Argentina",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ARM": {
+            "pais": "Armênia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ARU": {
+            "pais": "Aruba",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "AUS": {
+            "pais": "Austrália",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "AUT": {
+            "pais": "Áustria",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "AZE": {
+            "pais": "Azerbaijão",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BAR": {
+            "pais": "Barbados",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BEL": {
+            "pais": "Bélgica",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BEM": {
+            "pais": "Benin",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BER": {
+            "pais": "Bermudas",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BFA": {
+            "pais": "Burkina Faso",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BLR": {
+            "pais": "Bielorrússia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BOS": {
+            "pais": "Bósnia e Herzegovina",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BOT": {
+            "pais": "Botsuana",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BRA": {
+            "pais": "Brasil",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BRN": {
+            "pais": "Bahrein",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BRU": {
+            "pais": "Brunei",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BUL": {
+            "pais": "Bulgária",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BUR": {
+            "pais": "Burundi",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "BUT": {
+            "pais": "Butão",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CAM": {
+            "pais": "Camarões",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CAN": {
+            "pais": "Canadá",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CAZ": {
+            "pais": "Cazaquistão",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CBJ": {
+            "pais": "Camboja",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CBV": {
+            "pais": "Cabo Verde",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CDS": {
+            "pais": "República da Coréia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CGP": {
+            "pais": "Cingapura",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CHI": {
+            "pais": "Chile",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CHN": {
+            "pais": "China",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CHP": {
+            "pais": "Chipre",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CMA": {
+            "pais": "Costa do Marfim",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "COG": {
+            "pais": "República Democrática do Congo",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "COL": {
+            "pais": "Colômbia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CON": {
+            "pais": "Congo, Rep. Pop.",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "COS": {
+            "pais": "Costa Rica",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CRO": {
+            "pais": "Croácia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "CUB": {
+            "pais": "Cuba",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "DIN": {
+            "pais": "Dinamarca",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "DOM": {
+            "pais": "República Dominicana",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "EAU": {
+            "pais": "Emirados Árabes Unidos",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "EGI": {
+            "pais": "Egito",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "EQU": {
+            "pais": "Equador",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ESA": {
+            "pais": "El Salvador",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ESP": {
+            "pais": "Espanha",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "EST": {
+            "pais": "Estônia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ETI": {
+            "pais": "Etiópia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "EUA": {
+            "pais": "Estados Unidos",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "FIJ": {
+            "pais": "Fiji",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "FIL": {
+            "pais": "Filipinas",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "FIN": {
+            "pais": "Finlândia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "FRA": {
+            "pais": "França",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "FRO": {
+            "pais": "Ilhas Feroé",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "GAB": {
+            "pais": "Gabão",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "GAM": {
+            "pais": "Gâmbia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "GAN": {
+            "pais": "Gana",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "GBR": {
+            "pais": "Grã-Bretanha",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "GBS": {
+            "pais": "Guiné-Bissau",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "GEO": {
+            "pais": "Geórgia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "GRA": {
+            "pais": "Granada",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "GRE": {
+            "pais": "Grécia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "GUA": {
+            "pais": "Guatemala",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "GUI": {
+            "pais": "Guiné",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "GUY": {
+            "pais": "Guiana",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "HAI": {
+            "pais": "Haiti",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "HKG": {
+            "pais": "Hong Kong, China",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "HOL": {
+            "pais": "Holanda",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "HON": {
+            "pais": "Honduras",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "HUN": {
+            "pais": "Hungria",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "IEM": {
+            "pais": "Iêmen",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "INA": {
+            "pais": "Indonésia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "IND": {
+            "pais": "Índia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "IRA": {
+            "pais": "Irã",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "IRL": {
+            "pais": "Irlanda",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "IRQ": {
+            "pais": "Iraque",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ISL": {
+            "pais": "Islândia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ISR": {
+            "pais": "Israel",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ISV": {
+            "pais": "Ilhas Virgens Americanas",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ITA": {
+            "pais": "Itália",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "JAM": {
+            "pais": "Jamaica",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "JAP": {
+            "pais": "Japão",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "JOR": {
+            "pais": "Jordãnia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "KUA": {
+            "pais": "Kuaite",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "LAO": {
+            "pais": "Laos",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "LBA": {
+            "pais": "Líbia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "LBR": {
+            "pais": "Libéria",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "LES": {
+            "pais": "Lesoto",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "LET": {
+            "pais": "Letônia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "LIB": {
+            "pais": "Líbano",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "LIT": {
+            "pais": "Lituânia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "LUX": {
+            "pais": "Luxemburgo",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MAD": {
+            "pais": "Madagascar",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MAL": {
+            "pais": "Malásia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MAR": {
+            "pais": "Marrocos",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MAW": {
+            "pais": "Malaui",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MCD": {
+            "pais": "Macedônia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MDV": {
+            "pais": "Maldivas",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MEX": {
+            "pais": "México",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MLI": {
+            "pais": "Mali",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MLT": {
+            "pais": "Malta",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MNE": {
+            "pais": "Montenegro",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MOC": {
+            "pais": "Moçambique",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MOG": {
+            "pais": "Mongólia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MOL": {
+            "pais": "Moldávia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "MRI": {
+            "pais": "Maurício",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "NAM": {
+            "pais": "Namíbia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "NEP": {
+            "pais": "Nepal",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "NGR": {
+            "pais": "Nigéria",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "NIC": {
+            "pais": "Nicarágua",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "NIG": {
+            "pais": "Níger",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "NOR": {
+            "pais": "Noruega",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "NZL": {
+            "pais": "Nova Zelândia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "OMA": {
+            "pais": "Omã",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "PAN": {
+            "pais": "Panamá",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "PAQ": {
+            "pais": "Paquistão",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "PAR": {
+            "pais": "Paraguai",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "PER": {
+            "pais": "Peru",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "PLE": {
+            "pais": "Palestina",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "PNG": {
+            "pais": "Papua Nova Guiné",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "POL": {
+            "pais": "Polônia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "POR": {
+            "pais": "Portugal",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "PUR": {
+            "pais": "Porto Rico",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "QAT": {
+            "pais": "Catar",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "QRG": {
+            "pais": "Quirguistão",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "QUE": {
+            "pais": "Quênia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "RCA": {
+            "pais": "República Centro-Africana",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "RCH": {
+            "pais": "República Tcheca",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "RPC": {
+            "pais": "Atletas da Rússia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ROM": {
+            "pais": "Romênia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "RUA": {
+            "pais": "Ruanda",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SAL": {
+            "pais": "Arábia Saudita",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SEN": {
+            "pais": "Senegal",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SIR": {
+            "pais": "Síria",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SLE": {
+            "pais": "Serra Leoa",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SLO": {
+            "pais": "Eslovênia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SOL": {
+            "pais": "Ilhas Salomão",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SOM": {
+            "pais": "Somália",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SRB": {
+            "pais": "Sérvia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SRI": {
+            "pais": "Sri Lanka",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "STP": {
+            "pais": "São Tomé e Príncipe",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SUE": {
+            "pais": "Suécia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SUI": {
+            "pais": "Suíça",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SVI": {
+            "pais": "São Vicente e Granadinas",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "SVK": {
+            "pais": "Eslováquia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "TAI": {
+            "pais": "Tailândia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "TAN": {
+            "pais": "Tanzânia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "TJK": {
+            "pais": "Tadjiquistão",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "TOG": {
+            "pais": "Togo",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "TPE": {
+            "pais": "Taiwan",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "TUN": {
+            "pais": "Tunísia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "TUR": {
+            "pais": "Turquia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "UCR": {
+            "pais": "Ucrânia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "UGA": {
+            "pais": "Uganda",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "URU": {
+            "pais": "Uruguai",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "UZB": {
+            "pais": "Uzbequistão",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "VEN": {
+            "pais": "Venezuela",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "VIE": {
+            "pais": "Vietnã",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ZAM": {
+            "pais": "Zâmbia",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        },
+        "ZIM": {
+            "pais": "Zimbábue",
+            "score": {
+                "bronze": 0,
+                "ouro": 0,
+                "prata": 0,
+                "total": 0
+            }
+        }		
+    },
+    "order": [
+        "AFS",
+        "ALE",
+        "ALG",
+        "ANG",
+        "AOR",
+        "ARG",
+        "ARM",
+        "ARU",
+        "AUS",
+        "AUT",
+        "AZE",
+        "BAR",
+        "BEL",
+        "BEM",
+        "BER",
+        "BFA",
+        "BLR",
+        "BOS",
+        "BOT",
+        "BRA",
+        "BRN",
+        "BRU",
+        "BUL",
+        "BUR",
+        "BUT",
+        "CAM",
+        "CAN",
+        "CAZ",
+        "CBJ",
+        "CBV",
+        "CDS",
+        "CGP",
+        "CHI",
+        "CHN",
+        "CHP",
+        "CMA",
+        "COG",
+        "COL",
+        "CON",
+        "COS",
+        "CRO",
+        "CUB",
+        "DIN",
+        "DOM",
+        "EAU",
+        "EGI",
+        "EQU",
+        "ESA",
+        "ESP",
+        "EST",
+        "ETI",
+        "EUA",
+        "FIJ",
+        "FIL",
+        "FIN",
+        "FRA",
+        "FRO",
+        "GAB",
+        "GAM",
+        "GAN",
+        "GBR",
+        "GBS",
+        "GEO",
+        "GRA",
+        "GRE",
+        "GUA",
+        "GUI",
+        "GUY",
+        "HAI",
+        "HKG",
+        "HOL",
+        "HON",
+        "HUN",
+        "IEM",
+        "INA",
+        "IND",
+        "IRA",
+        "IRL",
+        "IRQ",
+        "ISL",
+        "ISR",
+        "ISV",
+        "ITA",
+        "JAM",
+        "JAP",
+        "JOR",
+        "KUA",
+        "LAO",
+        "LBA",
+        "LBR",
+        "LES",
+        "LET",
+        "LIB",
+        "LIT",
+        "LUX",
+        "MAD",
+        "MAL",
+        "MAR",
+        "MAW",
+        "MCD",
+        "MDV",
+        "MEX",
+        "MLI",
+        "MLT",
+        "MNE",
+        "MOC",
+        "MOG",
+        "MOL",
+        "MRI",
+        "NAM",
+        "NEP",
+        "NGR",
+        "NIC",
+        "NIG",
+        "NOR",
+        "NZL",
+        "OMA",
+        "PAN",
+        "PAQ",
+        "PAR",
+        "PER",
+        "PLE",
+        "PNG",
+        "POL",
+        "POR",
+        "PUR",
+        "QAT",
+        "QRG",
+        "QUE",
+        "RCA",
+        "RCH",
+        "RPC",
+        "ROM",
+        "RUA",
+        "SAL",
+        "SEN",
+        "SIR",
+        "SLE",
+        "SLO",
+        "SOL",
+        "SOM",
+        "SRB",
+        "SRI",
+        "STP",
+        "SUE",
+        "SUI",
+        "SVI",
+        "SVK",
+        "TAI",
+        "TAN",
+        "TJK",
+        "TOG",
+        "TPE",
+        "TUN",
+        "TUR",
+        "UCR",
+        "UGA",
+        "URU",
+        "UZB",
+        "VEN",
+        "VIE",
+        "ZAM",
+        "ZIM"
+	]
+}
